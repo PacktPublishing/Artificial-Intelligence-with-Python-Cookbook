@@ -1,5 +1,5 @@
 """
-Visualizing the results of a classification model in stramlit.
+Visualizing the results of a classification model in streamlit.
 """
 import numpy as np
 import pandas as pd
