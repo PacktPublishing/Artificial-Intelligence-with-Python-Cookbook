@@ -1,0 +1,15 @@
+digraph G {
+    # dot -Tpng skipgram.dot > skipgram.png
+    rankdir=LR;
+    in [label="w(t)"];
+    hidden [label=""];
+    out1 [label="w(t-2)"];
+    out2 [label="w(t-1)"];
+    out3 [label="w(t+1)"];
+    out4 [label="w(t+2)"];
+    in -> hidden;
+    hidden -> out1;
+    hidden -> out2;
+    hidden -> out3;
+    hidden -> out4;
+}
