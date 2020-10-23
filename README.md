@@ -34,7 +34,7 @@ data = fetch_openml(data_id=42165, as_frame=True)
 **Following is what you need for this book:**
 This AI book is for Python developers, data scientists, machine learning developers, and deep learning practitioners who want to learn how to build artificial intelligence solutions with easy-to-follow recipes. If you are looking for state-of-the-art solutions to perform different machine learning tasks in various use cases, this book is for you. Basic working knowledge of Python programming language and machine learning concepts will help you to work with the code.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
 ### Software and Hardware List
 
@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Artificial Intelligence with Python - Second Edition [[Packt]](https://www.packtpub.com/product/artificial-intelligence-with-python-second-edition/9781839219535) [[Amazon]](https://www.amazon.com/dp/183921953X)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Ben Auffarth**
 is a full-stack data scientist with more than 15 years of work experience. With a background and Ph.D. in computational and cognitive neuroscience, he has designed and conducted wet lab experiments on cell cultures, analyzed experiments with terabytes of data, run brain models on IBM supercomputers with up to 64k cores, built production systems processing hundreds of thousands of transactions per day, and trained neural networks on millions of text documents. He resides in West London with his family, where you might find him in a playground with his young son. He co-founded and is the former president of Data Science Speakers, London.
 
