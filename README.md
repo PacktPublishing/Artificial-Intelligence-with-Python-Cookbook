@@ -9,7 +9,7 @@ This is the code repository for [Artificial Intelligence with Python Cookbook](h
 ## What is this book about?
 With artificial intelligence (AI) systems, we can develop goal-driven agents to automate problem-solving. This involves predicting and classifying the available data and training agents to execute tasks successfully. This book will help you to solve complex AI problems using practical recipes.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Implement data preprocessing steps and optimize model hyperparameters
 * Work with large amounts of data using distributed and parallel computing techniques
 * Get to grips with representational learning from images using InfoGAN
