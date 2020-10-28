@@ -1,0 +1,12 @@
+digraph G {
+    # dot -Tpng perceptron.dot > perceptron.png
+    rankdir=LR;
+    in1 [label="x_0"];
+    in2 [label="x_1"];
+    in3 [label="x_2"];
+    in4 [label="x_3"];
+    in1 -> out [label="w_0"]
+    in2 -> out [label="w_1"]
+    in3 -> out [label="w_2"]
+    in4 -> out [label="w_3"]
+}
