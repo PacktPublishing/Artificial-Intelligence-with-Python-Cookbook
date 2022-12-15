@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789133967)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Artificial Intelligence with Python Cookbook
 
 <a href="https://www.packtpub.com/product/artificial-intelligence-with-python-cookbook/9781789133967"><img src="https://static.packt-cdn.com/products/9781789133967/cover/smaller" alt="Artificial Intelligence with Python Cookbook" height="256px" align="right"></a>
